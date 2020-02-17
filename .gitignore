@@ -104,4 +104,4 @@ tests/windows
 
 # My changes
 *.a
-
+*.cbp
